@@ -1,0 +1,19 @@
+body {color:blue;
+      background-color :white
+}
+div.blocka {
+   float: left;
+   width: 50%;
+   /* background-color: blue; */
+   height: 900px;
+}
+
+div.blockb{
+  /* background-color: red; */
+}
+.size_test{
+  font-size: 50px; /* 文字サイズ指定 */
+}
+.size_test2{
+  font-size: 12px; /* 文字サイズ指定 */
+}
